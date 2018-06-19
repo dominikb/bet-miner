@@ -1,0 +1,394 @@
+{
+  "betathome": {
+    "odds": [
+      {
+        "homeTeam": "Argentinien",
+        "awayTeam": "Island",
+        "forHomeTeam": "1.33",
+        "evenGame": "5.10",
+        "forAwayTeam": "10.50",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/argentinien-island-neutraler-spielort/8979232",
+        "startAt": 1529154000000
+      },
+      {
+        "homeTeam": "Peru",
+        "awayTeam": "Dänemark",
+        "forHomeTeam": "3.35",
+        "evenGame": "3.00",
+        "forAwayTeam": "2.45",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/peru-danemark-neutraler-spielort/8979222",
+        "startAt": 1529164800000
+      },
+      {
+        "homeTeam": "Kroatien",
+        "awayTeam": "Nigeria",
+        "forHomeTeam": "1.77",
+        "evenGame": "3.55",
+        "forAwayTeam": "5.10",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/kroatien-nigeria-neutraler-spielort/8979234",
+        "startAt": 1529175600000
+      },
+      {
+        "homeTeam": "Costa Rica",
+        "awayTeam": "Serbien",
+        "forHomeTeam": "4.57",
+        "evenGame": "3.18",
+        "forAwayTeam": "1.90",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/costa-rica-serbien-neutraler-spielort/8979237",
+        "startAt": null
+      },
+      {
+        "homeTeam": "Deutschland",
+        "awayTeam": "Mexiko",
+        "forHomeTeam": "1.48",
+        "evenGame": "4.32",
+        "forAwayTeam": "6.50",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/deutschland-mexiko-neutraler-spielort/8979244",
+        "startAt": null
+      },
+      {
+        "homeTeam": "Brasilien",
+        "awayTeam": "Schweiz",
+        "forHomeTeam": "1.40",
+        "evenGame": "4.49",
+        "forAwayTeam": "8.01",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/brasilien-schweiz-neutraler-spielort/8979235",
+        "startAt": null
+      },
+      {
+        "homeTeam": "Schweden",
+        "awayTeam": "Südkorea",
+        "forHomeTeam": "2.02",
+        "evenGame": "3.15",
+        "forAwayTeam": "4.02",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/schweden-sudkorea-neutraler-spielort/8979245",
+        "startAt": 1529323200000
+      },
+      {
+        "homeTeam": "Belgien",
+        "awayTeam": "Panama",
+        "forHomeTeam": "1.17",
+        "evenGame": "6.74",
+        "forAwayTeam": "18.70",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/belgien-panama-neutraler-spielort/8979260",
+        "startAt": 1529334000000
+      },
+      {
+        "homeTeam": "Tunesien",
+        "awayTeam": "England",
+        "forHomeTeam": "8.10",
+        "evenGame": "4.26",
+        "forAwayTeam": "1.42",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/tunesien-england-neutraler-spielort/8979261",
+        "startAt": 1529344800000
+      },
+      {
+        "homeTeam": "Kolumbien",
+        "awayTeam": "Japan",
+        "forHomeTeam": "1.65",
+        "evenGame": "3.66",
+        "forAwayTeam": "5.57",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/kolumbien-japan-neutraler-spielort/8979264",
+        "startAt": 1529409600000
+      },
+      {
+        "homeTeam": "Polen",
+        "awayTeam": "Senegal",
+        "forHomeTeam": "2.36",
+        "evenGame": "3.13",
+        "forAwayTeam": "3.16",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/polen-senegal-neutraler-spielort/8979265",
+        "startAt": 1529420400000
+      },
+      {
+        "homeTeam": "Russland",
+        "awayTeam": "Ägypten",
+        "forHomeTeam": "2.19",
+        "evenGame": "3.06",
+        "forAwayTeam": "3.61",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/russland-agypten/8979211",
+        "startAt": 1529431200000
+      },
+      {
+        "homeTeam": "Portugal",
+        "awayTeam": "Marokko",
+        "forHomeTeam": "1.57",
+        "evenGame": "3.85",
+        "forAwayTeam": "6.12",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/portugal-marokko-neutraler-spielort/8979223",
+        "startAt": 1529496000000
+      },
+      {
+        "homeTeam": "Uruguay",
+        "awayTeam": "Saudi-Arabien",
+        "forHomeTeam": "1.13",
+        "evenGame": "7.94",
+        "forAwayTeam": "21.51",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/uruguay-saudi-arabien-neutraler-spielort/8979216",
+        "startAt": 1529506800000
+      },
+      {
+        "homeTeam": "Iran",
+        "awayTeam": "Spanien",
+        "forHomeTeam": "22.35",
+        "evenGame": "7.02",
+        "forAwayTeam": "1.15",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/iran-spanien-neutraler-spielort/8979221",
+        "startAt": 1529517600000
+      },
+      {
+        "homeTeam": "Dänemark",
+        "awayTeam": "Australien",
+        "forHomeTeam": "1.69",
+        "evenGame": "3.60",
+        "forAwayTeam": "5.20",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/danemark-australien-neutraler-spielort/8979226",
+        "startAt": 1529582400000
+      },
+      {
+        "homeTeam": "Frankreich",
+        "awayTeam": "Peru",
+        "forHomeTeam": "1.48",
+        "evenGame": "4.29",
+        "forAwayTeam": "6.61",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/frankreich-peru-neutraler-spielort/8979227",
+        "startAt": 1529593200000
+      },
+      {
+        "homeTeam": "Argentinien",
+        "awayTeam": "Kroatien",
+        "forHomeTeam": "1.92",
+        "evenGame": "3.35",
+        "forAwayTeam": "4.15",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/argentinien-kroatien-neutraler-spielort/8979228",
+        "startAt": 1529604000000
+      },
+      {
+        "homeTeam": "Brasilien",
+        "awayTeam": "Costa",
+        "forHomeTeam": "1.18",
+        "evenGame": "6.31",
+        "forAwayTeam": "17.79",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/brasilien-costa-rica-neutraler-spielort/8979238",
+        "startAt": 1529668800000
+      },
+      {
+        "homeTeam": "Nigeria",
+        "awayTeam": "Island",
+        "forHomeTeam": "2.54",
+        "evenGame": "3.03",
+        "forAwayTeam": "2.97",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/nigeria-island-neutraler-spielort/8979229",
+        "startAt": 1529679600000
+      },
+      {
+        "homeTeam": "Serbien",
+        "awayTeam": "Schweiz",
+        "forHomeTeam": "2.87",
+        "evenGame": "3.06",
+        "forAwayTeam": "2.60",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/serbien-schweiz-neutraler-spielort/8979236",
+        "startAt": 1529690400000
+      },
+      {
+        "homeTeam": "Belgien",
+        "awayTeam": "Tunesien",
+        "forHomeTeam": "1.33",
+        "evenGame": "5.00",
+        "forAwayTeam": "9.19",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/belgien-tunesien-neutraler-spielort/8979249",
+        "startAt": 1529755200000
+      },
+      {
+        "homeTeam": "Südkorea",
+        "awayTeam": "Mexiko",
+        "forHomeTeam": "4.97",
+        "evenGame": "3.50",
+        "forAwayTeam": "1.74",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/sudkorea-mexiko-neutraler-spielort/8979269",
+        "startAt": 1529766000000
+      },
+      {
+        "homeTeam": "Deutschland",
+        "awayTeam": "Schweden",
+        "forHomeTeam": "1.36",
+        "evenGame": "4.71",
+        "forAwayTeam": "8.75",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/deutschland-schweden-neutraler-spielort/8979241",
+        "startAt": 1529776800000
+      },
+      {
+        "homeTeam": "England",
+        "awayTeam": "Panama",
+        "forHomeTeam": "1.19",
+        "evenGame": "6.17",
+        "forAwayTeam": "18.01",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/england-panama-neutraler-spielort/8979250",
+        "startAt": 1529841600000
+      },
+      {
+        "homeTeam": "Japan",
+        "awayTeam": "Senegal",
+        "forHomeTeam": "3.60",
+        "evenGame": "3.23",
+        "forAwayTeam": "2.12",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/japan-senegal-neutraler-spielort/8979263",
+        "startAt": 1529852400000
+      },
+      {
+        "homeTeam": "Polen",
+        "awayTeam": "Kolumbien",
+        "forHomeTeam": "3.33",
+        "evenGame": "3.21",
+        "forAwayTeam": "2.23",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/polen-kolumbien-neutraler-spielort/8979262",
+        "startAt": 1529863200000
+      },
+      {
+        "homeTeam": "Saudi-Arabien",
+        "awayTeam": "Ägypten",
+        "forHomeTeam": "7.12",
+        "evenGame": "4.08",
+        "forAwayTeam": "1.48",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/saudi-arabien-agypten-neutraler-spielort/8979218",
+        "startAt": 1529935200000
+      },
+      {
+        "homeTeam": "Uruguay",
+        "awayTeam": "Russland",
+        "forHomeTeam": "2.25",
+        "evenGame": "3.14",
+        "forAwayTeam": "3.37",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/uruguay-russland-neutraler-spielort/8979219",
+        "startAt": 1529935200000
+      },
+      {
+        "homeTeam": "Spanien",
+        "awayTeam": "Marokko",
+        "forHomeTeam": "1.34",
+        "evenGame": "4.87",
+        "forAwayTeam": "9.27",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/spanien-marokko-neutraler-spielort/8979213",
+        "startAt": 1529949600000
+      },
+      {
+        "homeTeam": "Iran",
+        "awayTeam": "Portugal",
+        "forHomeTeam": "9.42",
+        "evenGame": "4.83",
+        "forAwayTeam": "1.34",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/iran-portugal-neutraler-spielort/8979215",
+        "startAt": 1529949600000
+      },
+      {
+        "homeTeam": "Dänemark",
+        "awayTeam": "Frankreich",
+        "forHomeTeam": "5.29",
+        "evenGame": "3.74",
+        "forAwayTeam": "1.66",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/danemark-frankreich-neutraler-spielort/8979225",
+        "startAt": 1530021600000
+      },
+      {
+        "homeTeam": "Australien",
+        "awayTeam": "Peru",
+        "forHomeTeam": "3.66",
+        "evenGame": "3.25",
+        "forAwayTeam": "2.09",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/australien-peru-neutraler-spielort/8979230",
+        "startAt": 1530021600000
+      },
+      {
+        "homeTeam": "Nigeria",
+        "awayTeam": "Argentinien",
+        "forHomeTeam": "6.80",
+        "evenGame": "4.46",
+        "forAwayTeam": "1.45",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/nigeria-argentinien-neutraler-spielort/8979231",
+        "startAt": 1530036000000
+      },
+      {
+        "homeTeam": "Island",
+        "awayTeam": "Kroatien",
+        "forHomeTeam": "4.90",
+        "evenGame": "3.46",
+        "forAwayTeam": "1.76",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/island-kroatien-neutraler-spielort/8979233",
+        "startAt": 1530036000000
+      },
+      {
+        "homeTeam": "Mexiko",
+        "awayTeam": "Schweden",
+        "forHomeTeam": "2.49",
+        "evenGame": "3.11",
+        "forAwayTeam": "2.98",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/mexiko-schweden-neutraler-spielort/8979242",
+        "startAt": 1530108000000
+      },
+      {
+        "homeTeam": "Südkorea",
+        "awayTeam": "Deutschland",
+        "forHomeTeam": "10.59",
+        "evenGame": "5.54",
+        "forAwayTeam": "1.27",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/sudkorea-deutschland-neutraler-spielort/8979268",
+        "startAt": 1530108000000
+      },
+      {
+        "homeTeam": "Serbien",
+        "awayTeam": "Brasilien",
+        "forHomeTeam": "8.40",
+        "evenGame": "4.67",
+        "forAwayTeam": "1.38",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/serbien-brasilien-neutraler-spielort/8979239",
+        "startAt": 1530122400000
+      },
+      {
+        "homeTeam": "Schweiz",
+        "awayTeam": "Costa",
+        "forHomeTeam": "1.87",
+        "evenGame": "3.31",
+        "forAwayTeam": "4.48",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/schweiz-costa-rica-neutraler-spielort/8979240",
+        "startAt": 1530122400000
+      },
+      {
+        "homeTeam": "Japan",
+        "awayTeam": "Polen",
+        "forHomeTeam": "4.28",
+        "evenGame": "3.49",
+        "forAwayTeam": "1.85",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/japan-polen-neutraler-spielort/8979266",
+        "startAt": 1530194400000
+      },
+      {
+        "homeTeam": "Senegal",
+        "awayTeam": "Kolumbien",
+        "forHomeTeam": "3.95",
+        "evenGame": "3.29",
+        "forAwayTeam": "1.99",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/senegal-kolumbien-neutraler-spielort/8979267",
+        "startAt": 1530194400000
+      },
+      {
+        "homeTeam": "England",
+        "awayTeam": "Belgien",
+        "forHomeTeam": "2.94",
+        "evenGame": "3.34",
+        "forAwayTeam": "2.38",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/england-belgien-neutraler-spielort/8979247",
+        "startAt": 1530208800000
+      },
+      {
+        "homeTeam": "Panama",
+        "awayTeam": "Tunesien",
+        "forHomeTeam": "3.66",
+        "evenGame": "3.23",
+        "forAwayTeam": "2.10",
+        "link": "https://www.bet-at-home.com/de/sport/fussball/wm-2018-spiele/gruppenphase/panama-tunesien-neutraler-spielort/8979248",
+        "startAt": 1530208800000
+      }
+    ],
+    "minedAt": 1529152446359
+  }
+}

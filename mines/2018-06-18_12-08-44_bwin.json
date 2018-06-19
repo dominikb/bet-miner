@@ -1,0 +1,333 @@
+{
+  "bwin": {
+    "odds": [
+      {
+        "homeTeam": "Argentina",
+        "awayTeam": "Croatia",
+        "forHomeTeam": "2.00",
+        "evenGame": "3.30",
+        "forAwayTeam": "4.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63160/6717725/betting/argentina-croatia",
+        "startAt": 1529604000000
+      },
+      {
+        "homeTeam": "Nigeria",
+        "awayTeam": "Iceland",
+        "forHomeTeam": "2.80",
+        "evenGame": "3.10",
+        "forAwayTeam": "2.70",
+        "link": "https://sports.bwin.com/en/sports/events/4/63160/6717726/betting/nigeria-iceland",
+        "startAt": 1529679600000
+      },
+      {
+        "homeTeam": "Nigeria",
+        "awayTeam": "Argentina",
+        "forHomeTeam": "8.50",
+        "evenGame": "4.60",
+        "forAwayTeam": "1.36",
+        "link": "https://sports.bwin.com/en/sports/events/4/63160/6717727/betting/nigeria-argentina",
+        "startAt": 1530036000000
+      },
+      {
+        "homeTeam": "Iceland",
+        "awayTeam": "Croatia",
+        "forHomeTeam": "4.33",
+        "evenGame": "3.50",
+        "forAwayTeam": "1.80",
+        "link": "https://sports.bwin.com/en/sports/events/4/63160/6717728/betting/iceland-croatia",
+        "startAt": 1530036000000
+      },
+      {
+        "homeTeam": "Denmark",
+        "awayTeam": "Australia",
+        "forHomeTeam": "1.83",
+        "evenGame": "3.50",
+        "forAwayTeam": "4.60",
+        "link": "https://sports.bwin.com/en/sports/events/4/63158/6717720/betting/denmark-australia",
+        "startAt": 1529582400000
+      },
+      {
+        "homeTeam": "France",
+        "awayTeam": "Peru",
+        "forHomeTeam": "1.50",
+        "evenGame": "4.25",
+        "forAwayTeam": "6.75",
+        "link": "https://sports.bwin.com/en/sports/events/4/63158/6717719/betting/france-peru",
+        "startAt": 1529593200000
+      },
+      {
+        "homeTeam": "Australia",
+        "awayTeam": "Peru",
+        "forHomeTeam": "3.60",
+        "evenGame": "3.30",
+        "forAwayTeam": "2.05",
+        "link": "https://sports.bwin.com/en/sports/events/4/63158/6717722/betting/australia-peru",
+        "startAt": 1530021600000
+      },
+      {
+        "homeTeam": "Denmark",
+        "awayTeam": "France",
+        "forHomeTeam": "4.60",
+        "evenGame": "3.75",
+        "forAwayTeam": "1.72",
+        "link": "https://sports.bwin.com/en/sports/events/4/63158/6717721/betting/denmark-france",
+        "startAt": 1530021600000
+      },
+      {
+        "homeTeam": "Portugal",
+        "awayTeam": "Morocco",
+        "forHomeTeam": "1.60",
+        "evenGame": "3.90",
+        "forAwayTeam": "6.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63156/6717714/betting/portugal-morocco",
+        "startAt": 1529496000000
+      },
+      {
+        "homeTeam": "X",
+        "forHomeTeam": "23.00",
+        "evenGame": "7.50",
+        "forAwayTeam": "1.15",
+        "link": "https://sports.bwin.com/en/sports/events/4/63156/6717715/betting/iran-spain",
+        "startAt": 1529517600000
+      },
+      {
+        "homeTeam": "Iran",
+        "awayTeam": "Portugal",
+        "forHomeTeam": "9.25",
+        "evenGame": "4.60",
+        "forAwayTeam": "1.34",
+        "link": "https://sports.bwin.com/en/sports/events/4/63156/6717716/betting/iran-portugal",
+        "startAt": 1529949600000
+      },
+      {
+        "homeTeam": "Spain",
+        "forHomeTeam": "1.36",
+        "evenGame": "4.10",
+        "forAwayTeam": "10.50",
+        "link": "https://sports.bwin.com/en/sports/events/4/63156/6717717/betting/spain-morocco",
+        "startAt": 1529949600000
+      },
+      {
+        "homeTeam": "Russia",
+        "awayTeam": "Egypt",
+        "forHomeTeam": "2.10",
+        "evenGame": "3.20",
+        "forAwayTeam": "3.90",
+        "link": "https://sports.bwin.com/en/sports/events/4/63154/6717709/betting/russia-egypt",
+        "startAt": 1529431200000
+      },
+      {
+        "homeTeam": "Uruguay",
+        "forHomeTeam": "1.13",
+        "evenGame": "8.75",
+        "forAwayTeam": "21.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63154/6717710/betting/uruguay-saudi-arabia",
+        "startAt": 1529506800000
+      },
+      {
+        "homeTeam": "Uruguay",
+        "awayTeam": "Russia",
+        "forHomeTeam": "2.20",
+        "evenGame": "3.20",
+        "forAwayTeam": "3.30",
+        "link": "https://sports.bwin.com/en/sports/events/4/63154/6717711/betting/uruguay-russia",
+        "startAt": 1529935200000
+      },
+      {
+        "homeTeam": "Saudi Arabia",
+        "awayTeam": "Egypt",
+        "forHomeTeam": "7.00",
+        "evenGame": "4.00",
+        "forAwayTeam": "1.48",
+        "link": "https://sports.bwin.com/en/sports/events/4/63154/6717712/betting/saudi-arabia-egypt",
+        "startAt": 1529935200000
+      },
+      {
+        "homeTeam": "Brazil",
+        "forHomeTeam": "1.15",
+        "evenGame": "7.75",
+        "forAwayTeam": "20.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63162/6717731/betting/brazil-costa-rica",
+        "startAt": 1529668800000
+      },
+      {
+        "homeTeam": "Serbia",
+        "awayTeam": "Switzerland",
+        "forHomeTeam": "2.95",
+        "evenGame": "3.10",
+        "forAwayTeam": "2.55",
+        "link": "https://sports.bwin.com/en/sports/events/4/63162/6717732/betting/serbia-switzerland",
+        "startAt": 1529690400000
+      },
+      {
+        "homeTeam": "Serbia",
+        "awayTeam": "Brazil",
+        "forHomeTeam": "7.75",
+        "evenGame": "4.40",
+        "forAwayTeam": "1.40",
+        "link": "https://sports.bwin.com/en/sports/events/4/63162/6717733/betting/serbia-brazil",
+        "startAt": 1530122400000
+      },
+      {
+        "homeTeam": "Switzerland",
+        "awayTeam": "Costa Rica",
+        "forHomeTeam": "1.75",
+        "evenGame": "3.40",
+        "forAwayTeam": "5.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63162/6717734/betting/switzerland-costa-rica",
+        "startAt": 1530122400000
+      },
+      {
+        "homeTeam": "Sweden",
+        "awayTeam": "South Korea",
+        "forHomeTeam": "2.10",
+        "evenGame": "3.10",
+        "forAwayTeam": "4.33",
+        "link": "https://sports.bwin.com/en/sports/events/4/63164/6717660/betting/sweden-south-korea",
+        "startAt": 1529323200000
+      },
+      {
+        "homeTeam": "South Korea",
+        "awayTeam": "Mexico",
+        "forHomeTeam": "7.00",
+        "evenGame": "3.80",
+        "forAwayTeam": "1.50",
+        "link": "https://sports.bwin.com/en/sports/events/4/63164/6717740/betting/south-korea-mexico",
+        "startAt": 1529766000000
+      },
+      {
+        "homeTeam": "Germany",
+        "awayTeam": "Sweden",
+        "forHomeTeam": "1.36",
+        "evenGame": "4.75",
+        "forAwayTeam": "7.75",
+        "link": "https://sports.bwin.com/en/sports/events/4/63164/6717739/betting/germany-sweden",
+        "startAt": 1529776800000
+      },
+      {
+        "homeTeam": "X",
+        "forHomeTeam": "13.50",
+        "evenGame": "5.75",
+        "forAwayTeam": "1.22",
+        "link": "https://sports.bwin.com/en/sports/events/4/63164/6717741/betting/south-korea-germany",
+        "startAt": 1530108000000
+      },
+      {
+        "homeTeam": "Mexico",
+        "awayTeam": "Sweden",
+        "forHomeTeam": "2.15",
+        "evenGame": "3.25",
+        "forAwayTeam": "3.40",
+        "link": "https://sports.bwin.com/en/sports/events/4/63164/6717742/betting/mexico-sweden",
+        "startAt": 1530108000000
+      },
+      {
+        "homeTeam": "Belgium",
+        "forHomeTeam": "1.19",
+        "evenGame": "7.25",
+        "forAwayTeam": "18.50",
+        "link": "https://sports.bwin.com/en/sports/events/4/63166/6717667/betting/belgium-panama",
+        "startAt": 1529334000000
+      },
+      {
+        "homeTeam": "Tunisia",
+        "awayTeam": "England",
+        "forHomeTeam": "9.25",
+        "evenGame": "4.25",
+        "forAwayTeam": "1.45",
+        "link": "https://sports.bwin.com/en/sports/events/4/63166/6717668/betting/tunisia-england",
+        "startAt": 1529344800000
+      },
+      {
+        "homeTeam": "Belgium",
+        "awayTeam": "Tunisia",
+        "forHomeTeam": "1.30",
+        "evenGame": "5.00",
+        "forAwayTeam": "9.75",
+        "link": "https://sports.bwin.com/en/sports/events/4/63166/6717746/betting/belgium-tunisia",
+        "startAt": 1529755200000
+      },
+      {
+        "homeTeam": "England",
+        "forHomeTeam": "1.20",
+        "evenGame": "6.00",
+        "forAwayTeam": "15.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63166/6717747/betting/england-panama",
+        "startAt": 1529841600000
+      },
+      {
+        "homeTeam": "England",
+        "awayTeam": "Belgium",
+        "forHomeTeam": "2.90",
+        "evenGame": "3.25",
+        "forAwayTeam": "2.40",
+        "link": "https://sports.bwin.com/en/sports/events/4/63166/6717748/betting/england-belgium",
+        "startAt": 1530208800000
+      },
+      {
+        "homeTeam": "Panama",
+        "awayTeam": "Tunisia",
+        "forHomeTeam": "3.70",
+        "evenGame": "3.10",
+        "forAwayTeam": "2.10",
+        "link": "https://sports.bwin.com/en/sports/events/4/63166/6717750/betting/panama-tunisia",
+        "startAt": 1530208800000
+      },
+      {
+        "homeTeam": "Colombia",
+        "awayTeam": "Japan",
+        "forHomeTeam": "1.67",
+        "evenGame": "3.60",
+        "forAwayTeam": "5.75",
+        "link": "https://sports.bwin.com/en/sports/events/4/63168/6717673/betting/colombia-japan",
+        "startAt": 1529409600000
+      },
+      {
+        "homeTeam": "Poland",
+        "awayTeam": "Senegal",
+        "forHomeTeam": "2.35",
+        "evenGame": "3.20",
+        "forAwayTeam": "3.25",
+        "link": "https://sports.bwin.com/en/sports/events/4/63168/6717672/betting/poland-senegal",
+        "startAt": 1529420400000
+      },
+      {
+        "homeTeam": "Japan",
+        "awayTeam": "Senegal",
+        "forHomeTeam": "3.40",
+        "evenGame": "3.20",
+        "forAwayTeam": "2.15",
+        "link": "https://sports.bwin.com/en/sports/events/4/63168/6717754/betting/japan-senegal",
+        "startAt": 1529852400000
+      },
+      {
+        "homeTeam": "Poland",
+        "awayTeam": "Colombia",
+        "forHomeTeam": "3.25",
+        "evenGame": "3.10",
+        "forAwayTeam": "2.25",
+        "link": "https://sports.bwin.com/en/sports/events/4/63168/6717755/betting/poland-colombia",
+        "startAt": 1529863200000
+      },
+      {
+        "homeTeam": "Japan",
+        "awayTeam": "Poland",
+        "forHomeTeam": "4.20",
+        "evenGame": "3.40",
+        "forAwayTeam": "1.87",
+        "link": "https://sports.bwin.com/en/sports/events/4/63168/6717756/betting/japan-poland",
+        "startAt": 1530194400000
+      },
+      {
+        "homeTeam": "Senegal",
+        "awayTeam": "Colombia",
+        "forHomeTeam": "3.80",
+        "evenGame": "3.25",
+        "forAwayTeam": "2.00",
+        "link": "https://sports.bwin.com/en/sports/events/4/63168/6717757/betting/senegal-colombia",
+        "startAt": 1530194400000
+      }
+    ],
+    "minedAt": 1529316524872
+  }
+}

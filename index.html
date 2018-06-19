@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <style>
+    ul.endpoints>li>span:first-child {
+      display: inline-flex;
+      min-width: 200px;
+    }
+  </style>
+  <title>Bet Miner</title>
+</head>
+
+<body>
+  <h1>Bet Miner</h1>
+  <p>This is a REST server to provide data access to mined betting data.</p>
+  <p>Data comes from:</p>
+  <ul>
+    <li>
+      <a href="www.bet-at-home.at">bet-at-home</a>
+    </li>
+    <li>
+      <a href="www.bwin.at">bwin</a>
+    </li>
+    <li>
+      <a href="www.interwetten.at">interwetten</a>
+    </li>
+  </ul>
+  <p>Some Endpoints include:</p>
+  <ul class="endpoints">
+    <li>
+      <span>GET /bets?before=timestamp</span>
+      <span>Retrieve 1000 Bets max, sorted descending by date</span>
+    </li>
+    <li>
+      <span>GET /bets/:id</span>
+      <span>Retrieve a specific Bet</span>
+    </li>
+    <li>
+      <span>GET /games</span>
+      <span>Retrive all games where data was mined for</span>
+    </li>
+    <li>
+      <span>GET /games/:id</span>
+      <span>Retrieve a specific game</span>
+    </li>
+  </ul>
+</body>
+
+</html>

@@ -1,0 +1,367 @@
+{
+  "interwetten": {
+    "odds": [
+      {
+        "homeTeam": "Costa Rica",
+        "awayTeam": "Serbien",
+        "forHomeTeam": "5,00",
+        "evenGame": "3,40",
+        "forAwayTeam": "1,80",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058493/costa-rica-serbien",
+        "startAt": 1529236800000
+      },
+      {
+        "homeTeam": "Deutschland",
+        "awayTeam": "Mexiko",
+        "forHomeTeam": "1,50",
+        "evenGame": "4,20",
+        "forAwayTeam": "7,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058499/deutschland-mexiko",
+        "startAt": 1529247600000
+      },
+      {
+        "homeTeam": "Brasilien",
+        "awayTeam": "Schweiz",
+        "forHomeTeam": "1,40",
+        "evenGame": "4,70",
+        "forAwayTeam": "8,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058517/brasilien-schweiz",
+        "startAt": 1529258400000
+      },
+      {
+        "homeTeam": "Schweden",
+        "awayTeam": "Südkorea",
+        "forHomeTeam": "1,90",
+        "evenGame": "3,30",
+        "forAwayTeam": "4,50",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058500/schweden-sudkorea",
+        "startAt": 1529323200000
+      },
+      {
+        "homeTeam": "Belgien",
+        "awayTeam": "Panama",
+        "forHomeTeam": "1,17",
+        "evenGame": "8,00",
+        "forAwayTeam": "15,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058505/belgien-panama",
+        "startAt": 1529334000000
+      },
+      {
+        "homeTeam": "Tunesien",
+        "awayTeam": "England",
+        "forHomeTeam": "8,40",
+        "evenGame": "4,60",
+        "forAwayTeam": "1,40",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058506/tunesien-england",
+        "startAt": 1529344800000
+      },
+      {
+        "homeTeam": "Kolumbien",
+        "awayTeam": "Japan",
+        "forHomeTeam": "1,65",
+        "evenGame": "3,80",
+        "forAwayTeam": "5,50",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058512/kolumbien-japan",
+        "startAt": 1529409600000
+      },
+      {
+        "homeTeam": "Polen",
+        "awayTeam": "Senegal",
+        "forHomeTeam": "2,40",
+        "evenGame": "3,15",
+        "forAwayTeam": "3,15",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058511/polen-senegal",
+        "startAt": 1529420400000
+      },
+      {
+        "homeTeam": "Russland",
+        "awayTeam": "Ägypten",
+        "forHomeTeam": "2,20",
+        "evenGame": "3,30",
+        "forAwayTeam": "3,40",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058471/russland-agypten",
+        "startAt": 1529431200000
+      },
+      {
+        "homeTeam": "Portugal",
+        "awayTeam": "Marokko",
+        "forHomeTeam": "1,55",
+        "evenGame": "4,00",
+        "forAwayTeam": "6,40",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058477/portugal-marokko",
+        "startAt": 1529496000000
+      },
+      {
+        "homeTeam": "Uruguay",
+        "awayTeam": "Saudi-Arabien",
+        "forHomeTeam": "1,12",
+        "evenGame": "9,00",
+        "forAwayTeam": "22,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058472/uruguay-saudi-arabien",
+        "startAt": 1529506800000
+      },
+      {
+        "homeTeam": "Iran",
+        "awayTeam": "Spanien",
+        "forHomeTeam": "18,00",
+        "evenGame": "8,00",
+        "forAwayTeam": "1,15",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058478/iran-spanien",
+        "startAt": 1529517600000
+      },
+      {
+        "homeTeam": "Dänemark",
+        "awayTeam": "Australien",
+        "forHomeTeam": "1,75",
+        "evenGame": "3,70",
+        "forAwayTeam": "4,80",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058484/danemark-australien",
+        "startAt": 1529582400000
+      },
+      {
+        "homeTeam": "Frankreich",
+        "awayTeam": "Peru",
+        "forHomeTeam": "1,45",
+        "evenGame": "4,40",
+        "forAwayTeam": "7,40",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058483/frankreich-peru",
+        "startAt": 1529593200000
+      },
+      {
+        "homeTeam": "Argentinien",
+        "awayTeam": "Kroatien",
+        "forHomeTeam": "2,10",
+        "evenGame": "3,40",
+        "forAwayTeam": "3,60",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058489/argentinien-kroatien",
+        "startAt": 1529604000000
+      },
+      {
+        "homeTeam": "Brasilien",
+        "awayTeam": "Costa Rica",
+        "forHomeTeam": "1,20",
+        "evenGame": "6,50",
+        "forAwayTeam": "15,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058495/brasilien-costa-rica",
+        "startAt": 1529668800000
+      },
+      {
+        "homeTeam": "Nigeria",
+        "awayTeam": "Island",
+        "forHomeTeam": "3,00",
+        "evenGame": "3,30",
+        "forAwayTeam": "2,40",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058490/nigeria-island",
+        "startAt": 1529679600000
+      },
+      {
+        "homeTeam": "Serbien",
+        "awayTeam": "Schweiz",
+        "forHomeTeam": "2,65",
+        "evenGame": "3,30",
+        "forAwayTeam": "2,65",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058518/serbien-schweiz",
+        "startAt": 1529690400000
+      },
+      {
+        "homeTeam": "Belgien",
+        "awayTeam": "Tunesien",
+        "forHomeTeam": "1,30",
+        "evenGame": "5,50",
+        "forAwayTeam": "9,50",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058507/belgien-tunesien",
+        "startAt": 1529755200000
+      },
+      {
+        "homeTeam": "Südkorea",
+        "awayTeam": "Mexiko",
+        "forHomeTeam": "5,30",
+        "evenGame": "3,80",
+        "forAwayTeam": "1,65",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058502/sudkorea-mexiko",
+        "startAt": 1529766000000
+      },
+      {
+        "homeTeam": "Deutschland",
+        "awayTeam": "Schweden",
+        "forHomeTeam": "1,40",
+        "evenGame": "4,50",
+        "forAwayTeam": "9,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058501/deutschland-schweden",
+        "startAt": 1529776800000
+      },
+      {
+        "homeTeam": "England",
+        "awayTeam": "Panama",
+        "forHomeTeam": "1,20",
+        "evenGame": "6,50",
+        "forAwayTeam": "15,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058508/england-panama",
+        "startAt": 1529841600000
+      },
+      {
+        "homeTeam": "Japan",
+        "awayTeam": "Senegal",
+        "forHomeTeam": "3,50",
+        "evenGame": "3,40",
+        "forAwayTeam": "2,10",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058513/japan-senegal",
+        "startAt": 1529852400000
+      },
+      {
+        "homeTeam": "Polen",
+        "awayTeam": "Kolumbien",
+        "forHomeTeam": "2,85",
+        "evenGame": "3,30",
+        "forAwayTeam": "2,50",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058514/polen-kolumbien",
+        "startAt": 1529863200000
+      },
+      {
+        "homeTeam": "Saudi-Arabien",
+        "awayTeam": "Ägypten",
+        "forHomeTeam": "6,50",
+        "evenGame": "4,20",
+        "forAwayTeam": "1,50",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058473/saudi-arabien-agypten",
+        "startAt": 1529935200000
+      },
+      {
+        "homeTeam": "Uruguay",
+        "awayTeam": "Russland",
+        "forHomeTeam": "2,40",
+        "evenGame": "3,10",
+        "forAwayTeam": "3,20",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058474/uruguay-russland",
+        "startAt": 1529935200000
+      },
+      {
+        "homeTeam": "Spanien",
+        "awayTeam": "Marokko",
+        "forHomeTeam": "1,30",
+        "evenGame": "5,50",
+        "forAwayTeam": "9,50",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058479/spanien-marokko",
+        "startAt": 1529949600000
+      },
+      {
+        "homeTeam": "Iran",
+        "awayTeam": "Portugal",
+        "forHomeTeam": "9,50",
+        "evenGame": "5,00",
+        "forAwayTeam": "1,33",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058480/iran-portugal",
+        "startAt": 1529949600000
+      },
+      {
+        "homeTeam": "Australien",
+        "awayTeam": "Peru",
+        "forHomeTeam": "3,70",
+        "evenGame": "3,50",
+        "forAwayTeam": "2,00",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058485/australien-peru",
+        "startAt": 1530021600000
+      },
+      {
+        "homeTeam": "Dänemark",
+        "awayTeam": "Frankreich",
+        "forHomeTeam": "5,00",
+        "evenGame": "3,70",
+        "forAwayTeam": "1,70",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058486/danemark-frankreich",
+        "startAt": 1530021600000
+      },
+      {
+        "homeTeam": "Nigeria",
+        "awayTeam": "Argentinien",
+        "forHomeTeam": "8,00",
+        "evenGame": "5,30",
+        "forAwayTeam": "1,35",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058491/nigeria-argentinien",
+        "startAt": 1530036000000
+      },
+      {
+        "homeTeam": "Island",
+        "awayTeam": "Kroatien",
+        "forHomeTeam": "4,50",
+        "evenGame": "3,60",
+        "forAwayTeam": "1,80",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058492/island-kroatien",
+        "startAt": 1530036000000
+      },
+      {
+        "homeTeam": "Südkorea",
+        "awayTeam": "Deutschland",
+        "forHomeTeam": "11,00",
+        "evenGame": "6,00",
+        "forAwayTeam": "1,25",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058503/sudkorea-deutschland",
+        "startAt": 1530108000000
+      },
+      {
+        "homeTeam": "Mexiko",
+        "awayTeam": "Schweden",
+        "forHomeTeam": "2,50",
+        "evenGame": "3,40",
+        "forAwayTeam": "2,75",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058504/mexiko-schweden",
+        "startAt": 1530108000000
+      },
+      {
+        "homeTeam": "Serbien",
+        "awayTeam": "Brasilien",
+        "forHomeTeam": "7,50",
+        "evenGame": "4,80",
+        "forAwayTeam": "1,40",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058497/serbien-brasilien",
+        "startAt": 1530122400000
+      },
+      {
+        "homeTeam": "Schweiz",
+        "awayTeam": "Costa Rica",
+        "forHomeTeam": "1,90",
+        "evenGame": "3,50",
+        "forAwayTeam": "4,10",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058519/schweiz-costa-rica",
+        "startAt": 1530122400000
+      },
+      {
+        "homeTeam": "Senegal",
+        "awayTeam": "Kolumbien",
+        "forHomeTeam": "3,50",
+        "evenGame": "3,40",
+        "forAwayTeam": "2,10",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058515/senegal-kolumbien",
+        "startAt": 1530194400000
+      },
+      {
+        "homeTeam": "Japan",
+        "awayTeam": "Polen",
+        "forHomeTeam": "4,50",
+        "evenGame": "3,60",
+        "forAwayTeam": "1,80",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058516/japan-polen",
+        "startAt": 1530194400000
+      },
+      {
+        "homeTeam": "England",
+        "awayTeam": "Belgien",
+        "forHomeTeam": "2,75",
+        "evenGame": "3,25",
+        "forAwayTeam": "2,60",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058509/england-belgien",
+        "startAt": 1530208800000
+      },
+      {
+        "homeTeam": "Panama",
+        "awayTeam": "Tunesien",
+        "forHomeTeam": "3,50",
+        "evenGame": "3,40",
+        "forAwayTeam": "2,10",
+        "link": "https://www.interwetten.com/de/sportwetten/e/11058510/panama-tunesien",
+        "startAt": 1530208800000
+      }
+    ],
+    "minedAt": 1529215099148
+  }
+}
