@@ -15,24 +15,25 @@
 </head>
 
 <body>
-  <h1>Bet Miner</h1>
+  <h1>Bet Miner - FIFA WM 2018</h1>
   <p>This is a REST server to provide data access to mined betting data.</p>
+  <p>Currently only group stage data is available.</p>
   <p>Data comes from:</p>
   <ul>
     <li>
-      <a href="www.bet-at-home.at">bet-at-home</a>
+      <a href="https://www.bet-at-home.com/" title="Bet at Home" target="_blank">bet-at-home</a>
     </li>
     <li>
-      <a href="www.bwin.at">bwin</a>
+      <a href="https://www.bwin.com" title="Bwin" target="_blank">bwin</a>
     </li>
     <li>
-      <a href="www.interwetten.at">interwetten</a>
+      <a href="https://www.interwetten.com" title="interwetten" target="_blank">interwetten</a>
     </li>
   </ul>
   <p>Some Endpoints include:</p>
   <ul class="endpoints">
     <li>
-      <span>GET /bets?before=timestamp</span>
+      <span>GET /bets?before=timestamp?limit=1000</span>
       <span>Retrieve 1000 Bets max, sorted descending by date</span>
     </li>
     <li>
