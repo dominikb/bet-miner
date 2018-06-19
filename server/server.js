@@ -90,32 +90,6 @@ const boot = () => {
       }));
   });
 
-  app.get('/bets/by-game/:id', (req, res) => {
-    Bet.find({
-        game: req.params.id
-      })
-      .then((docs) => {
-        if (!docs) {
-          res.status(404).send({
-            error: {
-              type: 'NotFound',
-              message: 'No bets for the given Game ID found'
-            },
-            ...responseMeta(req)
-          });
-        }
-
-        res.send({
-          data: docs,
-          ...responseMeta(req)
-        });
-      })
-      .catch(e => res.status(400).send({
-        error: e,
-        ...responseMeta(req)
-      }));
-  });
-
   app.get('/games', (req, res) => {
     Game.find({})
       .then((games) => {
@@ -161,6 +135,33 @@ const boot = () => {
         ...responseMeta(req)
       }));
   });
+
+  app.get('/games/:id/bets', (req, res) => {
+    Bet.find({
+        game: req.params.id
+      })
+      .then((docs) => {
+        if (!docs) {
+          res.status(404).send({
+            error: {
+              type: 'NotFound',
+              message: 'No bets for the given Game ID found'
+            },
+            ...responseMeta(req)
+          });
+        }
+
+        res.send({
+          data: docs,
+          ...responseMeta(req)
+        });
+      })
+      .catch(e => res.status(400).send({
+        error: e,
+        ...responseMeta(req)
+      }));
+  });
+
 
   app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, '../index.html'));
