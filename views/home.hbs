@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Bet Miner</title>
+  <link rel="stylesheet" type="text/css" href="../main.css">
+</head>
+
+<body>
+  <header>
+    <ul>
+      <li>
+        <a class="active" href="/">Home</a>
+      </li>
+      <li>
+        <a href="/view/games">Games</a>
+      </li>
+      <li>
+        <a href="/view/bets">Bets</a>
+      </li>
+    </ul>
+  </header>
+  <section id="content">
+
+    <h1>Bet Miner - FIFA WM 2018</h1>
+    <p>This is a REST server to provide data access to mined betting data.</p>
+    <p>Currently only group stage data is available.</p>
+    <p>There are {{ betCount }} Bets for {{ gameCount }} Games.</p>
+    <p>Data comes from:</p>
+    <ul>
+      <li>
+        <a href="https://www.bet-at-home.com/" title="Bet at Home" target="_blank">bet-at-home</a>
+      </li>
+      <li>
+        <a href="https://www.bwin.com" title="Bwin" target="_blank">bwin</a>
+      </li>
+      <li>
+        <a href="https://www.interwetten.com" title="interwetten" target="_blank">interwetten</a>
+      </li>
+    </ul>
+    <p>Some Endpoints include:</p>
+    <ul class="endpoints">
+      <li>
+        <span>GET /bets?before=timestamp?limit=1000</span>
+        <span>Retrieve 1000 Bets max, sorted descending by date</span>
+      </li>
+      <li>
+        <span>GET /bets/:id</span>
+        <span>Retrieve a specific Bet</span>
+      </li>
+      <li>
+        <span>GET /games</span>
+        <span>Retrive all games where data was mined for</span>
+      </li>
+      <li>
+        <span>GET /games/:id</span>
+        <span>Retrieve a specific game</span>
+      </li>
+      <li>
+        <span>GET /games/:id/bets</span>
+        <span>Retrieve all bets for the specified game</span>
+      </li>
+    </ul>
+  </section>
+</body>
+
+</html>

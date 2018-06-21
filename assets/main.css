@@ -1,0 +1,65 @@
+header {
+  background: #cccccc;
+}
+
+header > ul {
+  list-style: none;
+  display: flex;
+  font-size: 24px;
+  margin: 0;
+  padding: 0.5rem 2rem;
+}
+
+header > ul > li {
+  padding-right: 1rem;
+}
+
+ul.endpoints > li > span:first-child {
+  display: inline-flex;
+  min-width: 300px;
+}
+
+body {
+  margin: 0;
+}
+
+#content {
+  padding: 0 2rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+header a {
+  color: #1b1919;
+  text-decoration: none;
+  transition: color 0.1s ease-out;
+  display: inline-block;
+}
+
+header a::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 3px;
+  background: #00c7d4;
+  transition: width 0.3s;
+}
+
+header a:hover::after {
+  width: 100%;
+}
+
+header a.active {
+  font-weight: 600;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 8px;
+  border-bottom: solid 2px;
+}
