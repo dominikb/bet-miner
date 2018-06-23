@@ -5,6 +5,12 @@ const GameSchema = new Schema({
   teamA: String,
   teamB: String,
   scheduledAt: Date,
+  result: {
+    score: {
+      teamA: Number,
+      teamB: Number
+    }
+  },
   link: String
 });
 

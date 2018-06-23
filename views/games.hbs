@@ -6,51 +6,74 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>Bet Miner</title>
-  <link rel="stylesheet" type="text/css" href="../main.css">
+  <link rel="stylesheet" type="text/css" href="/main.css">
 </head>
 
 <body>
   <header>
-    <ul>
-      <li>
-        <a href="/">Home</a>
-      </li>
-      <li>
-        <a class="active" href="/view/games">Games</a>
-      </li>
-      <li>
-        <a href="/view/bets">Bets</a>
-      </li>
-    </ul>
+    <div class="container">
+      <ul>
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a class="active" href="/view/games">Games</a>
+        </li>
+        <li>
+          <a href="/view/stats">Stats</a>
+        </li>
+      </ul>
+      <div>
+        <form action="/view/games">
+          <label for="searchterm">Search for a Team</label>
+          <input id="searchterm" name="searchterm" type="text" autofocus>
+          <button type="submit">Search</button>
+        </form>
+      </div>
+    </div>
   </header>
-  <section id="content">
-    <form action="/view/games">
-      <label for="searchterm">Search for a Team</label>
-      <input id="searchterm" name="searchterm" type="text" autofocus>
-      <button type="submit">Search</button>
-    </form>
-    <table>
-      <thead>
-        <tr>
-          <th>Scheduled At</th>
-          <th>Team A</th>
-          <th>Team B</th>
-          <th>ID</th>
-        </tr>
-      </thead>
-      <tbody>
-        {{#each games}}
-        <tr>
-          <td>{{scheduledAt}}</td>
-          <td>{{teamA}}</td>
-          <td>{{teamB}}</td>
-          <td>{{_id}}</td>
-        </tr>
-        {{/each}}
-      </tbody>
-    </table>
+  <div class="container">
+    <section id="content">
 
-  </section>
+      <table>
+        <thead>
+          <tr>
+            <th>Scheduled At</th>
+            <th>Team A</th>
+            <th>Team B</th>
+            <th>Result</th>
+            <th>ID</th>
+            <th>Merge</th>
+          </tr>
+        </thead>
+        <tbody>
+          {{#each games}}
+          <tr>
+            <td>{{date-format scheduledAt}}</td>
+            <td>{{teamA}}</td>
+            <td>{{teamB}}</td>
+            <td>{{result.score.teamA}} : {{result.score.teamB}}</td>
+            <td>
+              <a href="/view/games/{{_id}}">{{_id}}</a>
+              {{!--
+              <span contenteditable="true ">{{_id}}</span> --}}
+            </td>
+            <td>
+              <form action="/games/{{_id}}/merge-into">
+                <div class="">
+                  <label for="mergeInto"></label>
+                  <input id="mergeInto" name="mergeInto" type="text">
+                </div>
+                <button type="submit">Merge</button>
+              </form>
+            </td>
+          </tr>
+          {{/each}}
+        </tbody>
+      </table>
+
+    </section>
+  </div>
 </body>
 
 </html>

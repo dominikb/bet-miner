@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Bet Miner</title>
+  <link rel="stylesheet" type="text/css" href="/main.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/4.1.0/echarts-en.common.min.js"></script>
+</head>
+
+<body>
+  <header>
+    <div class="container">
+      <ul>
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a class="active" href="/view/games">Games</a>
+        </li>
+        <li>
+          <a href="/view/stats">Stats</a>
+        </li>
+      </ul>
+    </div>
+  </header>
+  <div class="container">
+    <section id="content">
+      <div class="container mw-50">
+        <div id="match-info">
+          <div id="teams">
+            <span id="teamA">{{game.teamA}}</span>
+            <span>vs</span>
+            <span id="teamB">{{game.teamB}}</span>
+          </div>
+          <div id="clock">
+            <span>{{date-format game.scheduledAt}}</span>
+          </div>
+          <div id="result">
+            <form action="/games/{{game._id}}/score">
+              <div class="form-group">
+                <label for="scoreTeamA">{{game.teamA}}</label>
+                <input id="scoreTeamA" name="scoreTeamA" type="number" value="{{game.result.score.teamA}}" autofocus>
+              </div>
+              <div class="form-group">
+                <label for="scoreTeamB">{{game.teamB}}</label>
+                <input id="scoreTeamB" name="scoreTeamB" type="number" value="{{game.result.score.teamB}}">
+              </div>
+              <button type="submit">Save</button>
+            </form>
+          </div>
+        </div>
+      </div>
+      <div class="container mw-50">
+        <div id="charts">
+          <div id="odds-chart" data-bets="{{bets}}"></div>
+        </div>
+      </div>
+    </section>
+  </div>
+
+  <script src="/charting.js"></script>
+</body>
+
+</html>
