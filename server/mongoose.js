@@ -1,10 +1,16 @@
 const mongoose = require('mongoose');
+const process = require('process');
 const {
   Bet,
   Game
 } = require('./models/index');
 
-mongoose.connect('mongodb://localhost/BetMiner');
+let connectionUrl = 'mongodb://localhost/BetMiner';
+if (process.env.DB_CONNECTION) {
+  connectionUrl = process.env.DB_CONNECTION;
+}
+
+mongoose.connect(connectionUrl);
 mongoose.Promise = Promise;
 
 const findOrCreateGame = (game) => {
